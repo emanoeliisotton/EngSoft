@@ -1,4 +1,4 @@
-# Sistema de gestão de estoque para centro de saúde - GECES
+# Sistema de gestão de estoque para centros de saúde - GECES
 
 Bem-vindo ao projeto da disciplina EngSoftI!
 
