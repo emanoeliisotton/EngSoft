@@ -20,4 +20,4 @@ Em processo de planejamento.
 
 ## Links relativos 
 
-[Modelagem de software](https://drive.google.com/file/d/164qwUFIcq9oiBCN5TgF0hW3gLOmZ_zrt/view?usp=sharing)
+[Modelagem de software](https://github.com/emanoeliisotton/EngSoft/blob/main/Modelagem%20de%20software%20-%20GECES%20-%20Aula%2023.08.23.pdf)
