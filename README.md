@@ -8,12 +8,17 @@ Tem como objetivo realizar a gestão de solicitação e recebimento de materiais
 
 ## Funcionalidades do projeto
 
-- Tela de login.
-- Tela de criação das compras.
-- Tela de inclusão dos itens.
-- Tela de visualização das compras.
-- Tela de conferência dos itens recebidos.
-
+- Solicitação de Compra de Materiais
+- Gerenciamento de Solicitações de Compra
+- Recebimento de Solicitações pelos Fornecedores
+- Separação e Envio de Materiais pelos Fornecedores
+- Rastreamento em Tempo Real
+- Conferência de Materiais
+- Relatórios e Análises 
+- Notificações e Comunicação
+- Segurança e Autenticação
+- Personalização
+  
 ## Status do projeto
 
 Em processo de planejamento.
