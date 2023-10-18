@@ -6,11 +6,11 @@ Bem-vindo ao projeto da disciplina EngSoftI!
 
 Este repositório contém o código-fonte e a documentação para o Sistema de gestão de estoque para centros de saúde - GECES. Este sistema foi desenvolvido para simplificar e otimizar o processo de compra e recebimento de materiais médicos e de saúde em estabelecimentos de saúde.
 
-## Descrição do projeto :bookmark_tabs:	
+## Descrição :bookmark_tabs:	
 
 Tem como objetivo realizar a gestão de solicitação e recebimento de materiais dentro de um estabelecimento de saúde. A interação no sistema ocorre entre almoxarife do estabelecimento e fornecedor de materiais. O almoxarife faz a solicitação de compra dos materiais desejado e a envia para o fornecedor e o mesmo dentro do sistema recebe tal solicitação de compra. O fornecedor deve fazer a separação dos itens e os envia-los para o estabelecimento, ao receber os itens, o estabelecimento deverá fazer a conferência dos mesmos no sistema e finalizar a compra.
 
-## Funcionalidades do projeto
+## Funcionalidades
 
 - Solicitação de Compra de Materiais
 - Gerenciamento de Solicitações de Compra
@@ -76,7 +76,7 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 5. Faça push para a branch: `git push origin alteracoes`.
 6. Abra um Pull Request descrevendo suas alterações.
   
-## Status do projeto
+## Status
 
 Em processo de planejamento.
 
