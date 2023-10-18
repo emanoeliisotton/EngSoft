@@ -38,7 +38,7 @@ Antes de começar, verifique se seu ambiente atende aos seguintes requisitos:
 1. Clone este repositório em seu servidor web:
 
 ```bash
-git clone https://github.com/seu-usuario/repo-solicitacao-materiais.git
+gh repo clone emanoeliisotton/EngSoft
 ```
 
 2. Crie um banco de dados MySQL e importe o arquivo SQL fornecido no diretório `database` para configurar as tabelas necessárias.
